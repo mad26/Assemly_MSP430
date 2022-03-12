@@ -1,3 +1,4 @@
 3/8/2022 - created repository and added readme.md and version track
 3/9/2022 - updated the repository with the seven addressing modes
 3/9/2022 - added the pooling code for the led, yet to be optimized
+3/12/2022 - added the led blinking code for single and double led. Also added the seven segment display counter(mod-60)
